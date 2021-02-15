@@ -1,0 +1,94 @@
+header{
+    width: 1000px;
+    margin: auto;
+    background-color: lightgoldenrodyellow;
+}
+section{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: #DBFADE;
+}
+
+.titulo_1{
+    color: silver;/*COLOR*/
+    text-align: center;/*ALINEACION*/
+    font-size: 35px;/*TAMAÑO LETRA*/
+    font-family: cursive;/*FUENTE*/
+}
+.titulo_2{
+    color: skyblue;/*COLOR*/
+    text-align: center;/*ALINEACION*/
+    font-size: 35px;/*TAMAÑO LETRA*/
+    font-family: cursive;/*FUENTE*/
+}
+
+.subtitulo_1{
+    color:#4B896C;/*COLOR*/
+    text-align:center;/*ALINEACION*/
+    background-color:;
+}
+ .texto_1{
+    color: darkolivegreen;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 15px;
+     text-align: justify;
+    
+}
+.imagen{
+    width: 200px;
+    border-color:aquamarine;
+    border-width:default;
+    border-style:double;
+    margin: 0;
+    padding: 0;
+
+}
+ .titulo_3{
+    color: skyblue;/*COLOR*/
+    text-align: left;/*ALINEACION*/
+    font-size: 15px;/*TAMAÑO LETRA*/
+    font-family: cursive;/*FUENTE*/
+}
+.lista_1{
+    color: darkgoldenrod;/*COLOR*/
+    text-align: left;/*ALINEACION*/
+    font-size: 15px;/*TAMAÑO LETRA*/
+    font-family: cursive;/*FUENTE*/
+}
+
+.titulo_tabla{
+    font-size: 25px;
+    background-color: burlywood;
+    color:white;
+}
+.tabla_1{
+    text-align: center;
+    color: darkgreen;
+    margin: 100px 0px 100px px;
+    border-collapse:separate;
+    width: 45%;
+	height: 250px;
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+    margin: auto;
+     
+}
+ .link_1{
+    color: crimson;
+ 
+}
+
+ .link_2{
+    color: darkorange;
+}
+ .form_1{
+    background-color: paleturquoise;
+    
+}
+
+   
